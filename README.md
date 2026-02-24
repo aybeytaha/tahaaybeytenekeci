@@ -21,5 +21,5 @@ I am a Junior Software Developer with hands-on experience in web and mobile deve
 - Advanced JavaScript
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/your-linkedin
+- LinkedIn: https://linkedin.com/in/aybeytaha
 - Email: aybeytahabusiness@gmail.com
